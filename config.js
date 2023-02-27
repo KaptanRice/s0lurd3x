@@ -1,5 +1,5 @@
 ﻿const config = {
-  "botStatus": [""],
+  "botStatus": ["Demon Store 🖤 S0LurD3X"],
   "prefix": ["!", "."],
   "token": "",
   "mongoose": "",
